@@ -28,6 +28,19 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
+
+  author:
+  name   : "Bashirat Sulyman"
+  avatar : "assets/images/Profile Picture.jpg
+  bio    : "Data Analyst | Storytelling with Data"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Bashirat-Sulyman"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/bashiratsulyman/"
+      
 # Navigation menu
 nav:
   - title: "Home"
