@@ -41,8 +41,8 @@ main:
 # Author/sidebar profile
 author:
   name   : "Bashirat Sulyman"
-  avatar : "/assets/images/profile.jpg"  # Add your picture here
-  bio    : "Data analyst in progress — building Excel dashboards and sharing my learning journey."
+  avatar : "assets/images/Profile Picture.jpg" 
+  bio    : "Data analyst // Building and sharing my learning journey."
   links:
     - label: "GitHub"
       icon: "fab fa-github"
