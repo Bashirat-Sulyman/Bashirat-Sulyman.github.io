@@ -23,15 +23,11 @@ description: "My Data Analysis Portfolio and Blog"
 baseurl: "" # keep empty for personal site
 url: "https://Bashirat-Sulyman.github.io"
 
+# Use Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
-
-
-# Build settings
-theme: minima
-
 # Navigation menu
 nav:
   - title: "Home"
