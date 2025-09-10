@@ -42,7 +42,7 @@ plugins:
       url: "https://www.linkedin.com/in/bashiratsulyman/"
       
 # Navigation menu
-nav:
+main:
   - title: "Home"
     url: /
   - title: "Projects"
