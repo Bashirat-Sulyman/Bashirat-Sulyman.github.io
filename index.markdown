@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "Welcome to my Data Analysis safe space"
+title: "Welcome to My Portfolio"
+author_profile: true
 ---
 
 Hi, I’m **Bashirat Sulyman**, and this is where I share my journey as I learn and grow as a **Data Analyst**.  
