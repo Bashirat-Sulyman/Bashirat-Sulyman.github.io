@@ -1,0 +1,36 @@
+---
+# Jekyll front matter (required)
+---
+
+@import "minimal-mistakes"; // import default theme styles
+
+/* 🌿 Your custom overrides below */
+
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.75;
+  color: #3b2f2f;
+  background-color: #fdfaf6;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  color: #2b1d1d;
+}
+
+a {
+  color: #FFC107; /* mustard yellow */
+}
+a:hover {
+  color: #FFBF00; /* amber */
+}
+
+blockquote {
+  border-left: 4px solid #FFD700;
+  padding-left: 1em;
+  font-style: italic;
+  color: #5a4633;
+  background: #FFF9C4;
+}
