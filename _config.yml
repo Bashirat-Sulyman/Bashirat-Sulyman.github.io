@@ -23,24 +23,12 @@ description: "My Data Analysis Portfolio and Blog"
 baseurl: "" # keep empty for personal site
 url: "https://Bashirat-Sulyman.github.io"
 
-# Use Minimal Mistakes
+# Use Minimal Mistakes theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
 
-  author:
-  name   : "Bashirat Sulyman"
-  avatar : "assets/images/Profile Picture.jpg
-  bio    : "Data Analyst | Storytelling with Data"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Bashirat-Sulyman"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/bashiratsulyman/"
-      
 # Navigation menu
 main:
   - title: "Home"
@@ -49,7 +37,38 @@ main:
     url: /projects/
   - title: "About"
     url: /about/
-    
+
+# Author/sidebar profile
+author:
+  name   : "Bashirat Sulyman"
+  avatar : "/assets/images/profile.jpg"  # Add your picture here
+  bio    : "Data analyst in progress — building Excel dashboards and sharing my learning journey."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Bashirat-Sulyman"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/bashirat-sulyman/"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/yourhandle"
+
+# Sidebar settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
