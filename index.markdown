@@ -1,6 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: "Welcome"
 ---
+
+# 👋 Welcome to My Blog
+
+Hi, I’m **[Bashirat Sulyman]**, and this is where I share my journey as I learn and grow as a **Data Analyst**.  
+
+I’ll be documenting my projects, and key lessons so others can learn along with me.  
+
+---
+## 📂 What to Expect Here
+- Step-by-step writeups of my projects  
+- Screenshots, files, and explanations of techniques used  
+- Lessons learned as I improve my analysis and visualization skills  
+
+---
+✨ Thanks for visiting — more projects coming soon!
+
