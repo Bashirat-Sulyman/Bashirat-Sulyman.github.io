@@ -4,7 +4,12 @@ title: "Projects"
 permalink: /projects/
 ---
 
-Here are some of the projects I’ve worked on:
+Here are some of my projects:
 
-- [Biker Sales Dashboard](https://bashirat-sulyman.github.io/excel/dashboard/2025/09/10/Biker-Sales-Dashboard.html)
-- (More projects coming soon…)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
