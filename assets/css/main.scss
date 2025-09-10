@@ -2,35 +2,106 @@
 # Jekyll front matter (required)
 ---
 
-@import "minimal-mistakes"; // import default theme styles
+@import "minimal-mistakes"; // load default Minimal Mistakes styles
 
-/* 🌿 Your custom overrides below */
-
+/* 🌿 Global body styles */
 body {
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 19px;
   line-height: 1.75;
-  color: #3b2f2f;
-  background-color: #fdfaf6;
+  color: #3b2f2f;             /* soft dark brown */
+  background-color: #fdfaf6;  /* warm off-white */
 }
 
+/* 🌿 Headings */
 h1, h2, h3, h4 {
   font-family: "Merriweather", serif;
   font-weight: 700;
-  color: #2b1d1d;
+  color: #2b1d1d; /* deep brown */
 }
 
+/* 🌿 Links */
 a {
   color: #FFC107; /* mustard yellow */
+  font-weight: 600;
+  text-decoration: none;
 }
 a:hover {
-  color: #FFBF00; /* amber */
+  color: #FFBF00; /* amber yellow */
+  text-decoration: underline;
 }
 
+/* 🌿 Blockquotes */
 blockquote {
-  border-left: 4px solid #FFD700;
+  border-left: 4px solid #FFD700; /* golden yellow */
   padding-left: 1em;
   font-style: italic;
   color: #5a4633;
-  background: #FFF9C4;
+  background: #FFF9C4; /* soft pastel yellow */
+}
+
+/* 🌿 Code snippets */
+code {
+  background: #f4ece3;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: "Courier New", monospace;
+  color: #5c4033;
+}
+
+/* 🌿 Images */
+img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: 1em 0;
+}
+
+/* ============================= */
+/* 🌿 Sidebar (author profile)   */
+/* ============================= */
+.sidebar {
+  background: #f9f5f1;   /* soft warm background */
+  border-right: 1px solid #e2d8d0;
+  padding: 1.5em 1em;
+}
+
+/* Profile picture */
+.author__avatar img {
+  border-radius: 50%;             /* circular */
+  border: 3px solid #c4a484;      /* warm beige border */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Name */
+.author__content h3 {
+  font-family: "Merriweather", serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #2b1d1d; /* deep brown */
+  margin-bottom: 0.4em;
+}
+
+/* Bio text */
+.author__bio {
+  font-size: 15px;
+  color: #5c4033; /* warm brown */
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+/* Sidebar links */
+.author__urls {
+  list-style: none;
+  padding: 0;
+}
+
+.author__urls li a {
+  color: #8b5e3c;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.author__urls li a:hover {
+  color: #5c4033;
+  text-decoration: underline;
 }
