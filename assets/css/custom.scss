@@ -1,1 +1,60 @@
+---
+# This front matter ensures Jekyll processes it
+---
+
+/* 🌿 Body text */
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.75;
+  color: #3b2f2f;   /* soft dark brown */
+  background-color: #fdfaf6; /* warm off-white */
+  margin: 0;
+  padding: 0;
+}
+
+/* 🌿 Headings */
+h1, h2, h3, h4 {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  color: #2b1d1d;  /* deeper brown */
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
+/* 🌿 Links */
+a {
+  color: #8b5e3c; /* warm brown */
+  text-decoration: none;
+  font-weight: 600;
+}
+a:hover {
+  text-decoration: underline;
+  color: #5c4033; /* darker brown on hover */
+}
+
+/* 🌿 Blockquotes */
+blockquote {
+  border-left: 4px solid #c4a484;
+  padding-left: 1em;
+  font-style: italic;
+  color: #5a4633;
+  background: #f9f5f1;
+}
+
+/* 🌿 Code snippets */
+code {
+  background: #f4ece3;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: "Courier New", monospace;
+  color: #5c4033;
+}
+
+/* 🌿 Images */
+img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: 1em 0;
+}
 
