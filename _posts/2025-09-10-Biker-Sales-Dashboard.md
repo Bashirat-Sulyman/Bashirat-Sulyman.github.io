@@ -3,9 +3,6 @@ layout: single
 title:  "Biker Sales Dashboard"
 date:   2025-09-10
 author: Bashirat Sulyman
-header:
-  image: assets/images/Biker sales dashboard.JPG
-  alt: "Biker Sales Dashboard"
 categories: [excel, dashboard]
 tags: [excel, visualization, sales, beginner]
 ---
