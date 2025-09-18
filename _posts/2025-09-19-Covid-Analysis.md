@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Covid 19 Analysis"
 date:   2025-09-19
 author: Bashirat Sulyman
