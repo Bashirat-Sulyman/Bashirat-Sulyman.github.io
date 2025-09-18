@@ -10,9 +10,9 @@ tags: [notebook, visualization, data, beginner]
 
 This project analyzes **COVID-19 case rates per 100,000 population (7-day rolling average)** in England using publicly available data.
 The goal is to:
-- Visualize case rate trends over time
-- Identify peaks and declines
-- Provide key statistics and insights for better understanding of the pandemic’s progression
+- Visualize case rate trends over time.
+- Identify peaks and declines.
+- Provide key statistics and insights for better understanding of the pandemic’s progression.
 
 ---
 
