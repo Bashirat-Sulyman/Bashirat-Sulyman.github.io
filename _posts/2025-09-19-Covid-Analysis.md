@@ -6,6 +6,8 @@ author: Bashirat Sulyman
 categories: Jupyter Notebook, Analysis
 ---
 
+## Project Overview
+
 I recently completed a Jupyter Notebook project where I explored **COVID-19 case rates by specimen date** in England.  
 
 This project was a great opportunity to practice data analysis skills using **Pandas**, **Matplotlib**, and **Plotly** for interactive visualizations.
