@@ -12,8 +12,8 @@ This is where I share my learning journey, projects, and insights as I grow my s
 
 ## Explore my work  
 
-- 📊 [Projects](/projects/) → See my Excel dashboards and analysis projects  
+- [Projects](/projects/) → See my Excel dashboards and analysis projects  
 
 ---
 
-✨ Stay tuned as I continue building more projects and sharing my growth here.
+Stay tuned as I continue building more projects and sharing my growth here.
