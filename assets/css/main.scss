@@ -135,3 +135,27 @@ body {
     font-size: 1.6rem;
   }
 }
+/* === Custom Blog Post Styling === */
+
+/* Make main content area wider and centered */
+.post-content, .page-content, main {
+  max-width: 800px;  /* wider text area */
+  margin: 0 auto;    /* center it */
+  padding: 0 1rem;   /* add some side padding for readability */
+  line-height: 1.6;  /* improve readability */
+  font-size: 1.1rem; /* slightly bigger font on desktop */
+}
+
+/* Make sure headings are bold and stand out */
+h1, h2, h3 {
+  font-weight: 700;
+  margin-top: 1.2rem;
+}
+
+/* Keep it mobile-friendly */
+@media (max-width: 768px) {
+  .post-content, .page-content, main {
+    max-width: 95%;
+    font-size: 1rem;
+  }
+}
