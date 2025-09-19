@@ -23,6 +23,10 @@ description: "My Data Analysis Portfolio and Blog"
 baseurl: "" # keep empty for personal site
 url: "https://Bashirat-Sulyman.github.io"
 
+collections:
+  posts:
+    output: true
+
 # Use Minimal Mistakes theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"  # (you can try "air" too for lighter feel)
