@@ -27,6 +27,7 @@ The goal is to:
 ## Live Report
 ### 📸 Interactive Graph Snapshot
 ![Graph Snapshot](/assets/images/newplot.png)
+
 [View the full interactive report here](https://Bashirat-Sulyman.github.io/Covid-Analysis/)
 
 ---
