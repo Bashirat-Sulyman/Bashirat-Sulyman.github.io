@@ -159,3 +159,37 @@ h1, h2, h3 {
     font-size: 1rem;
   }
 }
+/* === Hero Section Styling for Index Page === */
+
+.home {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1rem; /* bigger top/bottom padding for breathing room */
+  line-height: 1.7;
+  font-size: 1.25rem; /* slightly bigger font for hero text */
+  text-align: center; /* center the text */
+}
+
+/* Style for the first heading (Welcome) */
+.home h1, .home h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+/* Add spacing between paragraphs */
+.home p {
+  margin-bottom: 1rem;
+}
+
+/* Responsive adjustments for mobile */
+@media (max-width: 768px) {
+  .home {
+    font-size: 1.1rem;
+    padding: 2rem 1rem;
+  }
+
+  .home h1, .home h2 {
+    font-size: 1.6rem;
+  }
+}
