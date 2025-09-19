@@ -6,7 +6,7 @@ author: Bashirat Sulyman
 categories: [excel, dashboard]
 tags: [excel, visualization, sales, beginner]
 ---
-For my very first project, I built a **Biker Sales Dashboard** in Excel 🚴📊.  
+For my very first project, I built a **Biker Sales Dashboard** in Excel.  
 This project helped me practice **data cleaning, pivot tables, slicers, and dashboard design**.
 
 ---
@@ -60,7 +60,7 @@ From the dashboard, users can explore:
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 - How to transform raw data into meaningful insights  
 - The power of **Pivot Tables + Slicers** for interactivity  
 - Basics of making a dashboard look professional and easy to understand  
