@@ -33,13 +33,13 @@ The goal is to:
 
 ---
 
-## 📜 Data Source
+## Data Source
 
 Data from **UK Health Security Agency**:  
 [Coronavirus Cases By Specimen Date (England)](https://coronavirus.data.gov.uk/)
 
 ---
-## 💡 Lessons Learned
+## Lessons Learned
 - How to use Jupyter Notebook to read large data files.
 - How to plot graph using matplot and plotly
 - How to use the hover effect on graphs to make it more interactive.  
