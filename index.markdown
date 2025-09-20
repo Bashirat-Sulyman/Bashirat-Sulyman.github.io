@@ -2,10 +2,8 @@
 permalink: /
 author_profile: true
 classes: wide
-title: "Home"
+title: "Welcome to my data analysis portfolio and blog. "
 ---
-
-Welcome to my data analysis portfolio and blog. 
 
 This is where I share my learning journey, projects, and insights as I grow my skills in **data analysis**.  
 
