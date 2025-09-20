@@ -1,7 +1,8 @@
 ---
-layout: home
 permalink: /
 author_profile: true
+classes: wide
+title: "Home"
 ---
 
 Welcome to my data analysis portfolio and blog. 
