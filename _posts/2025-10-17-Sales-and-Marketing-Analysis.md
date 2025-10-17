@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Sales and Marketing Analysis"
 date:   2025-10-17
 author: Bashirat Sulyman
