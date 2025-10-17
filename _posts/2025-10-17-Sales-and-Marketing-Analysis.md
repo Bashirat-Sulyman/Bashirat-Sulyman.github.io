@@ -6,8 +6,6 @@ author: Bashirat Sulyman
 categories: [excel]
 tags: [excel, visualization, sales, beginner]
 ---
-# Sales and Marketing Data Analysis
-
 I explored this dataset to understand how discount levels, customer segments, and product categories affect sales and profit. 
 It’s one of my early projects in data storytelling and Excel analysis showing how data can support business decisions.
 
