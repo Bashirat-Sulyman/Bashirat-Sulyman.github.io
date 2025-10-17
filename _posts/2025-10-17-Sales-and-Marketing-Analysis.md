@@ -34,21 +34,22 @@ It provides insights into how pricing, product category, and customer type affec
 #### **Impact of Discount on Sales and Profit**
 The analysis shows that discounts between 0–10% generated the highest sales revenue and profit. As the discount percentage increased, both total sales and profit decreased significantly. From this, we can deduce that discount does affect sales revenue but in proportions. 
 Discounts above 30% resulted in losses, with negative profit values despite moderate sales.This means that higher discounts do not necessarily boost sales revenue and have a negative impact on profitability. Therefore, moderate or low discounts appear to be the most effective for maintaining both sales and profit levels.
-![Impact of Discount on Sales and Profit](assets/images/chart-2.JPG)
+
+![Impact of Discount on Sales and Profit](/assets/images/chart2.JPG)
 
 
 #### **Revenue and Profit by Customer Segment**
 The Consumer segment drives the highest sales and profit.  
 Encouraging more frequent purchases from these customers can further boost revenue.  
 
-![Revenue and Profit by Customer Segment](assets/images/chart-one.JPG)
+![Revenue and Profit by Customer Segment](/assets/images/chart-one.JPG)
 
 
 #### **Most Popular Product Categories by Region**
 Across every region, Office Supplies consistently had the largest number of items sold, which shows a strong demand compared to Furniture and Technology. 
 This indicates that customers across all regions need and purchase office-related products more frequently than other categories.
   
-![Most Popular Product Categories by Region](assets/images/chart-3.JPG)
+![Most Popular Product Categories by Region](/assets/images/chart-3.JPG)
 
 
 ---
