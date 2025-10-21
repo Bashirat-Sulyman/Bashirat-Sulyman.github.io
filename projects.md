@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Projects"
+permalink: /projects/
 author_profile: false
 classes: wide
 ---
@@ -11,3 +12,4 @@ classes: wide
     <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
   </article>
 {% endfor %}
+
